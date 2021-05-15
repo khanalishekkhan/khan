@@ -1,0 +1,2 @@
+# khan
+Termux login script 
